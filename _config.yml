@@ -1,0 +1,8 @@
+# Site settings (minimal – add your data later)
+title: My Site
+# For GitHub Pages: use "" if repo is username.github.io, or "/reponame" otherwise
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
